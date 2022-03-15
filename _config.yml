@@ -1,17 +1,17 @@
 # Website details
-name: Name
-description: Description
-email: email@site.com
-author: author
-lang: en
-locale: en_US
+name: 파키's 간헐적 정리
+description: 정리좀 하구 살자!
+email: paki1019@gmail.com
+author: paki1019
+lang: ko
+locale: ko_kr
 
 # Jekyll
 paginate: 10
 highlighter: rouge
 markdown: kramdown
 plugins: [jekyll-paginate]
-timezone: America/New_York
+timezone: asia/seoul
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
