@@ -1,6 +1,6 @@
 # Website details
 name: 파키's 간헐적 정리
-description: 정리좀 하구 살자!
+description: 정리좀 하구 살자..!
 email: paki1019@gmail.com
 author: paki1019
 lang: ko
@@ -15,7 +15,7 @@ timezone: asia/seoul
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
-baseurl: https://ozgrozer.github.io/dasper
+baseurl: https://paki1019.github.io/
 
 # Includes
 addthisId: ""
